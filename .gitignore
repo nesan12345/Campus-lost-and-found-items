@@ -1,0 +1,19 @@
+# Compiled Java class files
+bin/
+*.class
+
+# Log files and reports generated during runtime
+*.log
+logs/
+reports/
+*.db
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
