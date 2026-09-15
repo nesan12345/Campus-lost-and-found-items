@@ -378,9 +378,9 @@ erDiagram
  🏫 VELLORE INSTITUTE OF TECHNOLOGY - CAMPUS LOST & FOUND SYSTEM                
  📦 Student & Staff Belongings Recovery & Management Portal                     
 ================================================================================
- ☕ Java Runtime    : 21.0.2 (OpenJDK 64-Bit Server VM)
- 💾 Persistence     : MySQL Database with JDBC Driver (External Config)
- 🧵 Multithreading  : Background Auto-Archive Daemon Active (Unit 3)
+  ☕ Java Runtime    : 21.0.2 (OpenJDK 64-Bit Server VM)
+  💾 Persistence     : MySQL Database with JDBC Driver (External Config)
+  🧵 Multithreading  : Background Auto-Archive Daemon Active (Unit 3)
 ================================================================================
 
 =========================== 📋 MAIN SYSTEM MENU ===========================
@@ -411,9 +411,9 @@ Total Items in Inventory: 3
 ================================================================================
          🏛️ VELLORE INSTITUTE OF TECHNOLOGY - CAMPUS LOST & FOUND REPORT       
 ================================================================================
- Generated On   : 2026-09-14 19:15:00
- Total Items    : 3
- Total Claims   : 1
+  Generated On   : 2026-09-14 19:15:00
+  Total Items    : 3
+  Total Claims   : 1
 ================================================================================
 
 📦 ACTIVE INVENTORY SUMMARY:
